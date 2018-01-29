@@ -30,6 +30,7 @@ Install tslint via npm:
 
 Add following to your user settings in VSCode:
 ```
+"editor.formatOnSave": true,
 "tslint.enable": true,
 "tslint.autoFixOnSave": true
 ```
