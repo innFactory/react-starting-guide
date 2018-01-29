@@ -20,4 +20,17 @@ We will use Inline Styles instead of putting the styles into separate CSS files 
 
 * Task: delete all css files in the tutorial above and use inline styles with JSS (You can defenitly play around, get familiar with styling and make it pretty)
 
-#
+### Typescript
+
+### Code Formatting with Visual Code
+Download following extension: `vscode-tslint` (just search for tslint)
+<br/>
+Install tslint via npm:
+```npm install -g tslint typescript```
+
+Add following to your user settings in VSCode:
+```
+"tslint.enable": true,
+"tslint.autoFixOnSave": true
+```
+
