@@ -23,7 +23,7 @@ We will use Inline Styles instead of putting the styles into separate CSS files 
 
 * Task: delete all css files in the tutorial above and use inline styles with JSS (You can defenitly play around, get familiar with styling and make it pretty)
 
-### Redux
+## Redux
 * [Video (watch from 0:00-1:30): Flux Architecture](https://www.youtube.com/watch?v=RbgU-zvbX1o)
 * [Video: The theory behind redux](https://www.youtube.com/watch?v=D2MqT4OEgoE&index=2&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_)
 
@@ -31,16 +31,16 @@ For later reading:</br>
 * [Video: Async Actions and redux-thunk](https://www.youtube.com/watch?v=h892pHdLQtM&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_&index=10)
 
 
-### Typescript
+## Typescript
 * [What is Typescript?](https://medium.com/trisfera/the-basics-of-typescript-e46beeeffe1)
 * [The benefits of TypeScript](https://medium.freecodecamp.org/when-should-i-use-typescript-311cb5fe801b)
 
-### Starting a project
+## Starting a project
 Go to our template and follow the readme instruction:</br>
 https://github.com/innFactory/create-react-app-material-typescript-redux
 
 
-### Code Formatting with Visual Code
+## Code Formatting with Visual Code
 Download following extension: `vscode-tslint` (just search for tslint)
 <br/>
 Install tslint via npm:
