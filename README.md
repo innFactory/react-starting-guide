@@ -11,7 +11,6 @@ This is an instruction to react and related technics. Please go through it and p
 * [What is npm?](https://docs.npmjs.com/getting-started/what-is-npm)
 * [Inastll npm](https://docs.npmjs.com/getting-started/installing-node)
 
-
 ## React Basics
 * [Video: What is React?](https://www.youtube.com/watch?v=JPT3bFIwJYA)
 * [Tutorial: Intro To React](https://reactjs.org/tutorial/tutorial.html)
@@ -52,4 +51,8 @@ Add following to your user settings in VSCode:
 "tslint.enable": true,
 "tslint.autoFixOnSave": true
 ```
+
+## Add code snippets for Visual Code
+Add the the `typescriptreact.json` to your AppData folder e.g. `C:\Users\tonis\AppData\Roaming\Code\User\snippets` <br />
+Use the snippet: Just type e.g. `reactcomponent` in a empty .tsx file for creating a new component.
 
