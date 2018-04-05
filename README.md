@@ -15,6 +15,7 @@ This is an instruction to react and related technics. Please go through it and p
 * [Video: What is React?](https://www.youtube.com/watch?v=JPT3bFIwJYA)
 * [Tutorial: Intro To React](https://reactjs.org/tutorial/tutorial.html)
 * [Video: State and Props](https://www.youtube.com/watch?v=qh3dYM6Keuw)
+* [Another Starting Guide by Glitch](https://glitch.com/react-starter-kit)
 * For more information and awesome repos:[awesome-react](https://github.com/enaqx/awesome-react)
 
 ### Inline Styles
