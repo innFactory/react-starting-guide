@@ -50,10 +50,22 @@ Add following to your user settings in VSCode:
 ```
 "editor.formatOnSave": true,
 "tslint.enable": true,
-"tslint.autoFixOnSave": true
+"tslint.autoFixOnSave": true,
+"typescript.updateImportsOnFileMove.enabled": "always",
+"editor.codeActionsOnSave": {
+        "source.organizeImports": true
+},
+"workbench.editor.showTabs": true,
+"workbench.editor.enablePreview": false,
 ```
 
 ## Add code snippets for Visual Code
 Add the the `typescriptreact.json` to your AppData folder e.g. `C:\Users\tonis\AppData\Roaming\Code\User\snippets` <br />
 Use the snippet: Just type e.g. `reactcomponent` in a empty .tsx file for creating a new component.
+
+## Cool Extensions for Visual Code
+* Material Icon Theme by Philipp Kief `pkief.material-icon-theme`
+* Auto Close Tag by Jun Han `formulahendry.auto-close-tag`
+* Auto Rename Tag by Jun Han `formulahendry.auto-rename-tag`
+* GitLens — Git supercharged by Eric Amodio `eamodio.gitlens`
 
