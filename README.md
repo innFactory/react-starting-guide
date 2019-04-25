@@ -34,6 +34,7 @@ For later reading:</br>
 ## Typescript
 * [What is Typescript?](https://medium.com/trisfera/the-basics-of-typescript-e46beeeffe1)
 * [The benefits of TypeScript](https://medium.freecodecamp.org/when-should-i-use-typescript-311cb5fe801b)
+* [The Typscript Book](https://basarat.gitbooks.io/typescript/content/docs/getting-started.html)
 
 ## Starting a project
 Go to our template and follow the readme instruction:</br>
