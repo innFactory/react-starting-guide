@@ -9,7 +9,7 @@ This is an instruction to react and related technics. Please go through it and p
 
 ## NPM
 * [What is npm?](https://docs.npmjs.com/getting-started/what-is-npm)
-* [Inastll npm](https://docs.npmjs.com/getting-started/installing-node)
+* [Install npm](https://docs.npmjs.com/getting-started/installing-node)
 
 ## React Basics
 * [Video: What is React?](https://www.youtube.com/watch?v=JPT3bFIwJYA)
